@@ -29,12 +29,16 @@ To get started with the Web Page Summarizer Chrome Extension, follow these steps
 
 ### Step 1: Clone the Repository
 
+```bash
 git clone https://github.com/yourusername/Web-Page-Summarizer.git
 cd Web-Page-Summarizer
+```
 
 ### Step 2: Install Dependencies
 
+```bash
 npm install
+```
 
 ### Step 3: Load the Extension in Chrome
 - Click on the Web Page Summarizer icon in the Chrome toolbar.

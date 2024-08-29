@@ -4,10 +4,6 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Summary History](#summary-history)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -36,3 +32,14 @@ To get started with the Web Page Summarizer Chrome Extension, follow these steps
 ```bash
 git clone https://github.com/yourusername/Web-Page-Summarizer.git
 cd Web-Page-Summarizer
+
+### Step 2: Install Dependencies
+
+```bash
+npm install
+
+### Step 3: Load the Extension in Chrome
+- Click on the Web Page Summarizer icon in the Chrome toolbar.
+- Enter your OpenAI API key if you haven't done so already.
+- Click "Summarize Page" to generate a summary of the current webpage.
+- Use the "View Summary History" button to see all previously generated summaries.
